@@ -14,5 +14,3 @@ Hello, I am a software engineer currently working at [kaluza](https://www.kaluza
 | Exploring            | Identity infrastructure experiments         |
 +----------------------+---------------------------------------------+
 ```
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidptrr&layout=compact&theme=github_dark&hide_border=true" />
