@@ -5,10 +5,10 @@ Hello, I am a software engineer currently working at [kaluza](https://www.kaluza
 
 ```text
 +----------------------+---------------------------------------------+
-| Languages            | C | Rust | TypeScript | Python             |
+| Languages            | C | Rust | TypeScript | Python              |
 +----------------------+---------------------------------------------+
-| Focus                | DevOps | Identity and Access Management       |
-|                      | System Programming                         |
+| Focus                | DevOps | Identity and Access Management     |
+|                      | System Programming                          |
 +----------------------+---------------------------------------------+
 | Currently            | Building vstd and low-level tooling         |
 | Exploring            | Identity infrastructure experiments         |
