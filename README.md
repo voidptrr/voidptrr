@@ -9,7 +9,7 @@ Software engineer at [Kaluza](https://www.kaluza.com), working in identity and a
 | languages            | C  Rust  TypeScript  Python             |
 | domains              | DevOps  IAM  System Programming         |
 +----------------------+-----------------------------------------+
-| now                  | building vstd and low-level tooling     |
+| now                  | building k4c and low-level tooling     |
 | next                 | exploring identity infrastructure ideas |
 +----------------------+-----------------------------------------+
 ```
