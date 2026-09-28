@@ -2,4 +2,4 @@
 
 Software engineer at [Kaluza](https://www.kaluza.com), working in identity and access management team.
 
-Projects where AI is not used now live on [Codeberg](codeberg.org/voidptrr) 
+Projects where AI is not used now live on [Codeberg](https://codeberg.org/voidptrr) 
